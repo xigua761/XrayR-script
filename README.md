@@ -14,7 +14,7 @@ Find the source code here: [ilovecpc/XrayR](https://github.com/ilovecpc/XrayR)
 # 一键安装
 
 ```
-wget -N https://raw.githubusercontent.com/ilovecpc/XrayR-script/master/install.sh && bash install.sh
+wget -N https://raw.githubusercontent.com/xigua761/XrayR-script-old/master/install.sh && bash install.sh
 ```
 
 # Docker 安装
